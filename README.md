@@ -1,4 +1,4 @@
-# Angular OData Library (es5)
+# Angular OData Library (es5) => OData V3
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/StefH/angular-odata-es5.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/StefH/angular-odata-es5.svg?branch=master)](https://travis-ci.org/StefH/angular-odata-es5)
@@ -25,7 +25,7 @@ Note that this library targets 'es5' so that Uglify will work correctly.
 
 Install through npm:
 ```
-npm install --save angular-odata-es5
+npm install --save @taywan_kd/angular-odata-es5
 ```
 
 ## Usage

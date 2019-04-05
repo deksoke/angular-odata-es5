@@ -13,7 +13,7 @@ export class KeyConfigs {
     public select = '$select';
     public expand = '$expand';
     public apply = '$apply';
-    public count = '$count';
+    public count = '$inlinecount=allpages';
     public maxPerPage = 'odata.maxpagesize';
 }
 
